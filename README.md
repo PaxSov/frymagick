@@ -1,3 +1,5 @@
+# Frymagick
+
 A project I am making to learn bash and imagemagick
 In the future I will probably add things such as saturation and noise.
 Feel free to contribute and fork this project.
@@ -8,3 +10,10 @@ imagemagick
 
 Have fun!
 
+## Possible updates:
+
+* Options via command line, not via an interface
+* Cleaner code
+* Full deep frying of image, not just jpg
+* Graphicsmagick version, imagemagick does not handle large amount of jpg'ing very well
+* Windows port (python version???)
