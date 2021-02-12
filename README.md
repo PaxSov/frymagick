@@ -17,3 +17,6 @@ Have fun!
 * Full deep frying of image, not just jpg
 * Graphicsmagick version, imagemagick does not handle large amount of jpg'ing very well
 * Windows port (python version???)
+
+# CURRENT VERSION DOES NOT WORK
+this project is being rebuilt. The current version on this branch is bad
