@@ -20,3 +20,5 @@ Have fun!
 
 # CURRENT VERSION DOES NOT WORK
 this project is being rebuilt. The current version on this branch is bad
+
+May redothis when I learn getopt | For now just use this to learn from or something
